@@ -1,6 +1,6 @@
 language = "python3"
 run = "python scraper.py"
-modules = ["python-3.12"]
+modules = ["python-3.10", "python-3.12"]
 
 [nix]
 channel = "stable-24_05"
